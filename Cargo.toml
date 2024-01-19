@@ -2,6 +2,15 @@
 name = "crc32_light"
 version = "0.1.0"
 edition = "2021"
+authors = ["kujirahand<web@kujirahand.com>"]
+description = "Calculate CRC-32 checksum"
+documentation = "https://docs.rs/crc32_light"
+homepage = "https://github.com/kujirahand/rust-crc32"
+repository = "https://github.com/kujirahand/rust-crc32"
+license = "MIT"
+license-file = "LICENSE"
+keywords = ["crc32", "checksum", "hash"]
+categories = ["Algorithms"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
